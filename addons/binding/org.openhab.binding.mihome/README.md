@@ -105,6 +105,8 @@ Bridge mihome:bridge:f0b429XXXXXX "Xiaomi Gateway" [ serialNumber="f0b429XXXXXX"
     Thing mihome:sensor_switch:158d0001XXXXXX "Xiaomi Mi Wireless Switch" [itemId="158d0001XXXXXX"]
 
     Thing mihome:86sw2:158d0001XXXXXX "Aqara Wireless Wall Switch" [itemId="158d0001XXXXXX"]
+    
+    Thing mihome:sensor_wleak_aq1:158d0001XXXXXX "Aqara Water Leak Sensor" [itemId="158d0001XXXXXX"]
 }
 ```
 
